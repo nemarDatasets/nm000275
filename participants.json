@@ -1,0 +1,36 @@
+{
+    "original_id": {
+        "Description": "Subject identifier in the original figshare dataset."
+    },
+    "species": {
+        "Description": "Binomial species name."
+    },
+    "age": {
+        "Description": "Age in years. Not provided per subject in the source data; the cohort was aged 22-28.",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex. Not provided in the source dataset.",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "handedness": {
+        "Description": "Handedness. Not provided in the source dataset.",
+        "Levels": {
+            "L": "left",
+            "R": "right",
+            "A": "ambidextrous"
+        }
+    },
+    "group": {
+        "Description": "Cohort group. All participants are healthy controls (no psychiatric/neurological/drug-use history).",
+        "Levels": {
+            "control": "healthy control participant"
+        }
+    },
+    "n_sessions": {
+        "Description": "Number of recording sessions for this subject."
+    }
+}

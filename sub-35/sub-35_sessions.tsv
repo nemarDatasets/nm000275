@@ -1,0 +1,3 @@
+session_id	acq_date	original_filename	recording_suffix	original_run_index	duration_sec	n_deviation_trials	n_events
+ses-01	2007-01-15	s35_070115m	m	n/a	6515.16	540	1620
+ses-02	2007-03-22	s35_070322n	n	n/a	5968.0	555	1665

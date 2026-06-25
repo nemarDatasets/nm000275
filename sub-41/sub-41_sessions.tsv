@@ -1,0 +1,6 @@
+session_id	acq_date	original_filename	recording_suffix	original_run_index	duration_sec	n_deviation_trials	n_events
+ses-01	2006-12-25	s41_061225n	n	n/a	6353.32	670	2010
+ses-02	2008-05-20	s41_080520m	m	n/a	3821.24	317	951
+ses-03	2008-05-30	s41_080530n	n	n/a	3774.08	322	966
+ses-04	2009-08-13	s41_090813m	m	n/a	5746.4	527	1581
+ses-05	2009-11-04	s41_091104n	n	n/a	5443.8	413	1239

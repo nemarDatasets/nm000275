@@ -1,0 +1,40 @@
+{
+    "onset": {
+        "Description": "Event onset relative to recording start.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Event duration.",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Descriptive event label.",
+        "Levels": {
+            "deviation_onset_left": "Deviation onset, car drift induced toward the left (trigger 251)",
+            "deviation_onset_right": "Deviation onset, car drift induced toward the right (trigger 252)",
+            "response_onset": "Response onset, subject starts the counter-steering response (trigger 253)",
+            "response_offset": "Response offset, car returns to lane centre (trigger 254)",
+            "undocumented_255": "Additional trigger (value 255) present only in sub-54 and sub-55 (21 occurrences total); it is NOT defined in the source publication (Cao et al. 2019) and its meaning is unknown. Retained as recorded."
+        },
+        "HED": {
+            "deviation_onset_left": "Sensory-event, Experimental-stimulus, Visual-presentation, Label/Lane-departure-left",
+            "deviation_onset_right": "Sensory-event, Experimental-stimulus, Visual-presentation, Label/Lane-departure-right",
+            "response_onset": "Agent-action, Participant-response, Move, Label/Steering-response-onset",
+            "response_offset": "Agent-action, Participant-response, Move, Label/Steering-response-offset",
+            "undocumented_255": "Label/Undocumented-trigger-255"
+        }
+    },
+    "value": {
+        "Description": "Original integer trigger value recorded with the EEG.",
+        "Levels": {
+            "251": "Deviation onset - car drift induced toward the LEFT",
+            "252": "Deviation onset - car drift induced toward the RIGHT",
+            "253": "Response onset - subject starts steering back toward lane centre",
+            "254": "Response offset - subject finishes steering; car back at lane centre",
+            "255": "Additional trigger (value 255) present only in sub-54 and sub-55 (21 occurrences total); it is NOT defined in the source publication (Cao et al. 2019) and its meaning is unknown. Retained as recorded."
+        }
+    },
+    "sample": {
+        "Description": "Onset expressed in samples (at 500 Hz)."
+    }
+}
