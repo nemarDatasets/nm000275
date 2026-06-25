@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Multi-channel EEG recordings during a sustained-attention driving task",
+  "description": "This dataset comprises multi-channel EEG recordings from 27 healthy adults performing a sustained-attention driving task in a virtual-reality simulator. The raw dataset contains 62 EEG sessions (~82 hours total) acquired at 500 Hz using a 32-channel Quik-Cap system, with event markers for lane-departure trials and steering responses. The data includes 27,192 lane-deviation events designed to assess fatigue and drowsiness through reaction time measurements, and is provided in BIDS-EEG format with nominal 10-20 electrode positions.",
+  "methods_description": "EEG was recorded using a Compumedics Neuroscan Scan SynAmps2 Express amplifier with a 32-channel Quik-Cap (Ag/AgCl electrodes) at 500 Hz sampling rate and 16-bit quantization. Participants performed a virtual-reality driving task on a six-degree-of-freedom Stewart motion platform with a real Ford Probe car frame, maintaining lane position on a simulated night-time highway while responding to randomly induced left/right lane-departure events. Electrode impedance was maintained below 5 kOhm. A 33rd channel recorded simulated vehicle lateral position (0-255 quantization) synchronized with EEG acquisition.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Zehong Cao": {
       "orcid": "0000-0003-3656-0328"
@@ -9,6 +14,29 @@
     "Jung-Kai King": {},
     "Chin-Teng Lin": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "sustained attention"
+    },
+    {
+      "term": "driving task"
+    },
+    {
+      "term": "fatigue detection"
+    },
+    {
+      "term": "reaction time"
+    },
+    {
+      "term": "virtual reality"
+    },
+    {
+      "term": "event-related potentials"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.6084/m9.figshare.6427334.v5",
@@ -81,14 +109,11 @@
       "award_number": "W911NF-10-D-0002/TO 0023"
     }
   ],
-  "title": "Multi-channel EEG recordings during a sustained-attention driving task",
-  "license": "CC-BY-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "39.0 GB (127 files)"
   ],
@@ -103,31 +128,6 @@
     ".txt",
     ".xml",
     ".zip"
-  ],
-  "description": "This dataset comprises multi-channel EEG recordings from 27 healthy adults performing a sustained-attention driving task in a virtual-reality simulator. The raw dataset contains 62 EEG sessions (~82 hours total) acquired at 500 Hz using a 32-channel system (30 scalp + 2 mastoid reference electrodes) with event markers for lane-departure trials and steering responses. The data were collected between 2005 and 2012 and have been converted to BIDS-EEG format, providing a resource for investigating neural correlates of sustained attention, fatigue, and motor response during simulated driving.",
-  "methods_description": "EEG was recorded using a Compumedics Neuroscan Scan SynAmps2 Express amplifier with a 32-channel Quik-Cap (Ag/AgCl electrodes) at 500 Hz sampling rate with 16-bit quantization. Electrodes followed a modified international 10-20 system (30 scalp + 2 mastoid references A1/A2). Electrode-skin impedance was maintained below 5 kOhm. Participants performed a sustained-attention driving task in a virtual-reality simulator mounted on a six-degree-of-freedom Stewart platform, driving a simulated highway at constant speed while responding to randomly induced lane-departure events. A 33rd channel recorded the vehicle's lateral position (0-255 quantization) synchronized with EEG acquisition.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "sustained attention"
-    },
-    {
-      "term": "driving simulation"
-    },
-    {
-      "term": "motor response"
-    },
-    {
-      "term": "fatigue detection"
-    },
-    {
-      "term": "reaction time"
-    },
-    {
-      "term": "event-related potentials"
-    }
   ],
   "source_hash": "fdd3620b62e2571fc408009d5190ed9a4cf549db0630e9e7f8ee66fac523c80f"
 }
