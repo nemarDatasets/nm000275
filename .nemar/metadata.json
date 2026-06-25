@@ -1,0 +1,133 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Zehong Cao": {
+      "orcid": "0000-0003-3656-0328"
+    },
+    "Chun-Hsiang Chuang": {},
+    "Jung-Kai King": {},
+    "Chin-Teng Lin": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.6427334.v5",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0027-4",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.6084/m9.figshare.7666055.v3",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1016/j.neuroimage.2014.01.015",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/srep21353",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1109/TBCAS.2014.2316224",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1109/TNNLS.2013.2275003",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1016/j.knosys.2015.01.007",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1109/TNNLS.2015.2496330",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1109/TFUZZ.2016.2633379",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000275",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000275",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "U.S. Army Research Laboratory",
+      "award_number": "W911NF-10-2-0022"
+    },
+    {
+      "funder_name": "U.S. Army Research Laboratory",
+      "award_number": "W911NF-10-D-0002/TO 0023"
+    }
+  ],
+  "title": "Multi-channel EEG recordings during a sustained-attention driving task",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "39.0 GB (127 files)"
+  ],
+  "formats": [
+    ".json",
+    ".log",
+    ".pdf",
+    ".py",
+    ".set",
+    ".sh",
+    ".tsv",
+    ".txt",
+    ".xml",
+    ".zip"
+  ],
+  "description": "This dataset comprises multi-channel EEG recordings from 27 healthy adults performing a sustained-attention driving task in a virtual-reality simulator. The raw dataset contains 62 EEG sessions (~82 hours total) acquired at 500 Hz using a 32-channel system (30 scalp + 2 mastoid reference electrodes) with event markers for lane-departure trials and steering responses. The data were collected between 2005 and 2012 and have been converted to BIDS-EEG format, providing a resource for investigating neural correlates of sustained attention, fatigue, and motor response during simulated driving.",
+  "methods_description": "EEG was recorded using a Compumedics Neuroscan Scan SynAmps2 Express amplifier with a 32-channel Quik-Cap (Ag/AgCl electrodes) at 500 Hz sampling rate with 16-bit quantization. Electrodes followed a modified international 10-20 system (30 scalp + 2 mastoid references A1/A2). Electrode-skin impedance was maintained below 5 kOhm. Participants performed a sustained-attention driving task in a virtual-reality simulator mounted on a six-degree-of-freedom Stewart platform, driving a simulated highway at constant speed while responding to randomly induced lane-departure events. A 33rd channel recorded the vehicle's lateral position (0-255 quantization) synchronized with EEG acquisition.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "sustained attention"
+    },
+    {
+      "term": "driving simulation"
+    },
+    {
+      "term": "motor response"
+    },
+    {
+      "term": "fatigue detection"
+    },
+    {
+      "term": "reaction time"
+    },
+    {
+      "term": "event-related potentials"
+    }
+  ],
+  "source_hash": "fdd3620b62e2571fc408009d5190ed9a4cf549db0630e9e7f8ee66fac523c80f"
+}
