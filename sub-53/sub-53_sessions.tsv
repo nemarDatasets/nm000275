@@ -1,0 +1,4 @@
+session_id	acq_date	original_filename	recording_suffix	original_run_index	duration_sec	n_deviation_trials	n_events
+ses-01	2008-10-18	s53_081018n	n	n/a	3675.56	244	732
+ses-02	2009-09-18	s53_090918n	n	n/a	5443.36	510	1530
+ses-03	2009-09-25	s53_090925m	m	n/a	5415.2	464	1392

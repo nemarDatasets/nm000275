@@ -1,0 +1,3 @@
+1.0.0 2026-06-25
+  - BIDS-EEG conversion from the figshare raw dataset (6427334 v5)
+    using MNE-BIDS 0.19.0; metadata enriched from the source publication.

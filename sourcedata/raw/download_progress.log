@@ -1,0 +1,262 @@
+2026-06-25 08:14:15 START download, 64 files
+08:14:15 [1/64] SKIP  s01_051017m.set (md5 ok)
+08:14:16 [2/64] SKIP  s01_060227n.set (md5 ok)
+08:14:17 [3/64] SKIP  s01_060926_1n.set (md5 ok)
+08:14:18 [4/64] SKIP  s01_060926_2n.set (md5 ok)
+08:14:40 [5/64] OK    s01_061102n.set
+08:14:54 [6/64] OK    s02_050921m.set
+08:15:09 [7/64] OK    s02_051115m.set
+08:15:23 [8/64] OK    s04_051130m.set
+08:15:38 [9/64] OK    s05_051120m.set
+08:15:52 [10/64] OK    s05_060308n.set
+08:16:15 [11/64] OK    s05_061019m.set
+08:16:38 [12/64] OK    s05_061101n.set
+08:16:52 [13/64] OK    s06_051119m.set
+08:17:07 [14/64] OK    s09_060313n.set
+08:17:18 [15/64] OK    s09_060317n.set
+08:17:31 [16/64] OK    s09_060720_1n.set
+08:17:46 [17/64] OK    s11_060920_1n.set
+08:18:02 [18/64] OK    s12_060710_1m.set
+08:18:17 [19/64] OK    s12_060710_2m.set
+08:18:32 [20/64] OK    s13_060213m.set
+08:18:45 [21/64] OK    s13_060217m.set
+08:18:57 [22/64] OK    s14_060319m.set
+08:19:09 [23/64] OK    s14_060319n.set
+08:19:24 [24/64] OK    s22_080513m.set
+08:19:45 [25/64] OK    s22_090825n.set
+08:20:05 [26/64] OK    s22_090922m.set
+08:20:24 [27/64] OK    s22_091006m.set
+08:20:40 [28/64] OK    s23_060711_1m.set
+08:21:05 [29/64] OK    s31_061020m.set
+08:21:27 [30/64] OK    s31_061103n.set
+08:21:50 [31/64] OK    s35_070115m.set
+08:22:11 [32/64] OK    s35_070322n.set
+08:22:34 [33/64] OK    s40_070124n.set
+08:22:58 [34/64] OK    s40_070131m.set
+2026-06-25 08:23:09 START download, 64 files
+08:23:10 [1/64] SKIP  s01_051017m.set (md5 ok)
+08:23:10 [2/64] SKIP  s01_060227n.set (md5 ok)
+08:23:12 [3/64] SKIP  s01_060926_1n.set (md5 ok)
+08:23:12 [4/64] SKIP  s01_060926_2n.set (md5 ok)
+08:23:13 [5/64] SKIP  s01_061102n.set (md5 ok)
+08:23:13 [6/64] SKIP  s02_050921m.set (md5 ok)
+08:23:14 [7/64] SKIP  s02_051115m.set (md5 ok)
+08:23:14 [8/64] SKIP  s04_051130m.set (md5 ok)
+08:23:15 [9/64] SKIP  s05_051120m.set (md5 ok)
+08:23:15 [10/64] SKIP  s05_060308n.set (md5 ok)
+08:23:16 [11/64] SKIP  s05_061019m.set (md5 ok)
+08:23:17 [12/64] SKIP  s05_061101n.set (md5 ok)
+08:23:18 [13/64] SKIP  s06_051119m.set (md5 ok)
+08:23:18 [14/64] SKIP  s09_060313n.set (md5 ok)
+08:23:19 [15/64] SKIP  s09_060317n.set (md5 ok)
+08:23:19 [16/64] SKIP  s09_060720_1n.set (md5 ok)
+08:23:20 [17/64] SKIP  s11_060920_1n.set (md5 ok)
+08:23:20 [35/64] OK    s41_061225n.set
+08:23:20 [18/64] SKIP  s12_060710_1m.set (md5 ok)
+08:23:21 [19/64] SKIP  s12_060710_2m.set (md5 ok)
+08:23:21 [20/64] SKIP  s13_060213m.set (md5 ok)
+08:23:22 [21/64] SKIP  s13_060217m.set (md5 ok)
+08:23:22 [22/64] SKIP  s14_060319m.set (md5 ok)
+08:23:23 [23/64] SKIP  s14_060319n.set (md5 ok)
+08:23:23 [24/64] SKIP  s22_080513m.set (md5 ok)
+08:23:24 [25/64] SKIP  s22_090825n.set (md5 ok)
+08:23:25 [26/64] SKIP  s22_090922m.set (md5 ok)
+08:23:25 [27/64] SKIP  s22_091006m.set (md5 ok)
+08:23:26 [28/64] SKIP  s23_060711_1m.set (md5 ok)
+08:23:27 [29/64] SKIP  s31_061020m.set (md5 ok)
+08:23:28 [30/64] SKIP  s31_061103n.set (md5 ok)
+08:23:29 [31/64] SKIP  s35_070115m.set (md5 ok)
+08:23:29 [32/64] SKIP  s35_070322n.set (md5 ok)
+08:23:30 [33/64] SKIP  s40_070124n.set (md5 ok)
+08:23:31 [34/64] SKIP  s40_070131m.set (md5 ok)
+08:23:32 [35/64] SKIP  s41_061225n.set (md5 ok)
+08:23:35 [36/64] retry 1 s41_080520m.set (rc=0 md5=0d4839f93c9d7337218d37015da99d56 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:37 [36/64] retry 1 s41_080520m.set (rc=0 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:41 [36/64] retry 2 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:43 [36/64] retry 2 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:48 [36/64] retry 3 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:50 [36/64] retry 3 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:54 [36/64] retry 4 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:23:56 [36/64] retry 4 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:24:01 [36/64] retry 5 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:24:02 [36/64] retry 5 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+08:24:06 [36/64] FAIL  s41_080520m.set
+08:24:08 [36/64] FAIL  s41_080520m.set
+08:24:20 [37/64] retry 1 s41_080530n.set (rc=0 md5=13df3dcf4710929aa40f9f0ca88da687 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:22 [37/64] retry 1 s41_080530n.set (rc=0 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:26 [37/64] retry 2 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:28 [37/64] retry 2 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:33 [37/64] retry 3 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:34 [37/64] retry 3 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:39 [37/64] retry 4 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:41 [37/64] retry 4 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:46 [37/64] retry 5 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:47 [37/64] retry 5 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:24:51 [37/64] FAIL  s41_080530n.set
+08:24:52 [37/64] FAIL  s41_080530n.set
+08:25:11 [38/64] retry 1 s41_090813m.set (rc=0 md5=0b4cf4150a9f14dcc64be79128eb12ee want=a74b19bce33d3d31743f8482447ae10b)
+08:25:13 [38/64] retry 1 s41_090813m.set (rc=0 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:18 [38/64] retry 2 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:20 [38/64] retry 2 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:24 [38/64] retry 3 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:26 [38/64] retry 3 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:31 [38/64] retry 4 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:33 [38/64] retry 4 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:38 [38/64] retry 5 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:39 [38/64] retry 5 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:25:43 [38/64] FAIL  s41_090813m.set
+08:25:44 [38/64] FAIL  s41_090813m.set
+2026-06-25 08:27:10 START download, 64 files
+08:27:10 [1/64] SKIP  s01_051017m.set (md5 ok)
+08:27:11 [2/64] SKIP  s01_060227n.set (md5 ok)
+08:27:11 [3/64] SKIP  s01_060926_1n.set (md5 ok)
+08:27:12 [4/64] SKIP  s01_060926_2n.set (md5 ok)
+08:27:12 [5/64] SKIP  s01_061102n.set (md5 ok)
+08:27:13 [6/64] SKIP  s02_050921m.set (md5 ok)
+08:27:13 [7/64] SKIP  s02_051115m.set (md5 ok)
+08:27:14 [8/64] SKIP  s04_051130m.set (md5 ok)
+08:27:14 [9/64] SKIP  s05_051120m.set (md5 ok)
+08:27:15 [10/64] SKIP  s05_060308n.set (md5 ok)
+08:27:16 [11/64] SKIP  s05_061019m.set (md5 ok)
+08:27:16 [12/64] SKIP  s05_061101n.set (md5 ok)
+08:27:17 [13/64] SKIP  s06_051119m.set (md5 ok)
+08:27:17 [14/64] SKIP  s09_060313n.set (md5 ok)
+08:27:18 [15/64] SKIP  s09_060317n.set (md5 ok)
+08:27:18 [16/64] SKIP  s09_060720_1n.set (md5 ok)
+08:27:19 [17/64] SKIP  s11_060920_1n.set (md5 ok)
+08:27:20 [18/64] SKIP  s12_060710_1m.set (md5 ok)
+08:27:20 [19/64] SKIP  s12_060710_2m.set (md5 ok)
+08:27:21 [20/64] SKIP  s13_060213m.set (md5 ok)
+08:27:21 [21/64] SKIP  s13_060217m.set (md5 ok)
+08:27:22 [22/64] SKIP  s14_060319m.set (md5 ok)
+08:27:22 [23/64] SKIP  s14_060319n.set (md5 ok)
+08:27:23 [24/64] SKIP  s22_080513m.set (md5 ok)
+08:27:23 [25/64] SKIP  s22_090825n.set (md5 ok)
+08:27:24 [26/64] SKIP  s22_090922m.set (md5 ok)
+08:27:25 [27/64] SKIP  s22_091006m.set (md5 ok)
+08:27:25 [28/64] SKIP  s23_060711_1m.set (md5 ok)
+08:27:26 [29/64] SKIP  s31_061020m.set (md5 ok)
+08:27:27 [30/64] SKIP  s31_061103n.set (md5 ok)
+08:27:28 [31/64] SKIP  s35_070115m.set (md5 ok)
+08:27:29 [32/64] SKIP  s35_070322n.set (md5 ok)
+08:27:29 [33/64] SKIP  s40_070124n.set (md5 ok)
+08:27:30 [34/64] SKIP  s40_070131m.set (md5 ok)
+08:27:31 [35/64] SKIP  s41_061225n.set (md5 ok)
+08:27:33 [36/64] retry 1 s41_080520m.set (rc=22 md5=f63b3feab2df84f696df888a5a5fbc61 want=8e1bd4851d5e45d47adc8cb0ddddc1d3)
+2026-06-25 08:27:54 START download, 64 files
+08:27:55 [1/64] SKIP  s01_051017m.set (md5 ok)
+08:27:55 [2/64] SKIP  s01_060227n.set (md5 ok)
+08:27:56 [3/64] SKIP  s01_060926_1n.set (md5 ok)
+08:27:56 [4/64] SKIP  s01_060926_2n.set (md5 ok)
+08:27:57 [5/64] SKIP  s01_061102n.set (md5 ok)
+08:27:57 [6/64] SKIP  s02_050921m.set (md5 ok)
+08:27:58 [7/64] SKIP  s02_051115m.set (md5 ok)
+08:27:58 [8/64] SKIP  s04_051130m.set (md5 ok)
+08:27:59 [9/64] SKIP  s05_051120m.set (md5 ok)
+08:28:00 [10/64] SKIP  s05_060308n.set (md5 ok)
+08:28:00 [11/64] SKIP  s05_061019m.set (md5 ok)
+08:28:01 [12/64] SKIP  s05_061101n.set (md5 ok)
+08:28:02 [13/64] SKIP  s06_051119m.set (md5 ok)
+08:28:02 [14/64] SKIP  s09_060313n.set (md5 ok)
+08:28:03 [15/64] SKIP  s09_060317n.set (md5 ok)
+08:28:03 [16/64] SKIP  s09_060720_1n.set (md5 ok)
+08:28:03 [17/64] SKIP  s11_060920_1n.set (md5 ok)
+08:28:04 [18/64] SKIP  s12_060710_1m.set (md5 ok)
+08:28:05 [19/64] SKIP  s12_060710_2m.set (md5 ok)
+08:28:05 [20/64] SKIP  s13_060213m.set (md5 ok)
+08:28:06 [21/64] SKIP  s13_060217m.set (md5 ok)
+08:28:06 [22/64] SKIP  s14_060319m.set (md5 ok)
+08:28:07 [23/64] SKIP  s14_060319n.set (md5 ok)
+08:28:07 [24/64] SKIP  s22_080513m.set (md5 ok)
+08:28:08 [25/64] SKIP  s22_090825n.set (md5 ok)
+08:28:09 [26/64] SKIP  s22_090922m.set (md5 ok)
+08:28:10 [27/64] SKIP  s22_091006m.set (md5 ok)
+08:28:10 [28/64] SKIP  s23_060711_1m.set (md5 ok)
+08:28:11 [29/64] SKIP  s31_061020m.set (md5 ok)
+08:28:12 [30/64] SKIP  s31_061103n.set (md5 ok)
+08:28:13 [31/64] SKIP  s35_070115m.set (md5 ok)
+08:28:13 [32/64] SKIP  s35_070322n.set (md5 ok)
+08:28:14 [33/64] SKIP  s40_070124n.set (md5 ok)
+08:28:15 [34/64] SKIP  s40_070131m.set (md5 ok)
+08:28:16 [35/64] SKIP  s41_061225n.set (md5 ok)
+08:28:16 [36/64] SKIP  s41_080520m.set (md5 ok)
+08:28:18 [37/64] retry 1 s41_080530n.set (rc=22 md5=d2f52e77defafd31bcf8313f09fc3747 want=9e55ac6374298fc6933267d69735ea2f)
+08:28:38 [37/64] OK    s41_080530n.set
+08:28:40 [38/64] retry 1 s41_090813m.set (rc=22 md5=4280faadb0ae763c1b143746ded939c0 want=a74b19bce33d3d31743f8482447ae10b)
+08:29:06 [38/64] OK    s41_090813m.set
+08:29:06 [39/64] SKIP  s41_091104n.set (md5 ok)
+08:29:17 [40/64] OK    s42_061229n.set
+08:29:41 [41/64] OK    s42_070105n.set
+08:30:17 [42/64] OK    s43_070202m.set
+08:30:40 [43/64] OK    s43_070205n.set
+08:31:01 [44/64] OK    s43_070208n.set
+08:31:23 [45/64] OK    s44_070126m.set
+08:31:46 [46/64] OK    s44_070205n.set
+08:32:10 [47/64] OK    s44_070209m.set
+08:32:32 [48/64] OK    s44_070325n.set
+2026-06-25 08:55:49 START download, 64 files
+08:55:49 [1/64] SKIP  s01_051017m.set (md5 ok)
+08:55:50 [2/64] SKIP  s01_060227n.set (md5 ok)
+08:55:50 [3/64] SKIP  s01_060926_1n.set (md5 ok)
+08:55:51 [4/64] SKIP  s01_060926_2n.set (md5 ok)
+08:55:52 [5/64] SKIP  s01_061102n.set (md5 ok)
+08:55:53 [6/64] SKIP  s02_050921m.set (md5 ok)
+08:55:59 [7/64] SKIP  s02_051115m.set (md5 ok)
+08:56:00 [8/64] SKIP  s04_051130m.set (md5 ok)
+08:56:00 [9/64] SKIP  s05_051120m.set (md5 ok)
+08:56:01 [10/64] SKIP  s05_060308n.set (md5 ok)
+08:56:02 [11/64] SKIP  s05_061019m.set (md5 ok)
+08:56:03 [12/64] SKIP  s05_061101n.set (md5 ok)
+08:56:04 [13/64] SKIP  s06_051119m.set (md5 ok)
+08:56:05 [14/64] SKIP  s09_060313n.set (md5 ok)
+08:56:05 [15/64] SKIP  s09_060317n.set (md5 ok)
+08:56:06 [16/64] SKIP  s09_060720_1n.set (md5 ok)
+08:56:07 [17/64] SKIP  s11_060920_1n.set (md5 ok)
+08:56:07 [18/64] SKIP  s12_060710_1m.set (md5 ok)
+08:56:08 [19/64] SKIP  s12_060710_2m.set (md5 ok)
+08:56:09 [20/64] SKIP  s13_060213m.set (md5 ok)
+08:56:10 [21/64] SKIP  s13_060217m.set (md5 ok)
+08:56:10 [22/64] SKIP  s14_060319m.set (md5 ok)
+08:56:11 [23/64] SKIP  s14_060319n.set (md5 ok)
+08:56:11 [24/64] SKIP  s22_080513m.set (md5 ok)
+08:56:12 [25/64] SKIP  s22_090825n.set (md5 ok)
+08:56:13 [26/64] SKIP  s22_090922m.set (md5 ok)
+08:56:13 [27/64] SKIP  s22_091006m.set (md5 ok)
+08:56:14 [28/64] SKIP  s23_060711_1m.set (md5 ok)
+08:56:15 [29/64] SKIP  s31_061020m.set (md5 ok)
+08:56:16 [30/64] SKIP  s31_061103n.set (md5 ok)
+08:56:18 [31/64] SKIP  s35_070115m.set (md5 ok)
+08:56:19 [32/64] SKIP  s35_070322n.set (md5 ok)
+08:56:21 [33/64] SKIP  s40_070124n.set (md5 ok)
+08:56:22 [34/64] SKIP  s40_070131m.set (md5 ok)
+08:56:24 [35/64] SKIP  s41_061225n.set (md5 ok)
+08:56:24 [36/64] SKIP  s41_080520m.set (md5 ok)
+08:56:25 [37/64] SKIP  s41_080530n.set (md5 ok)
+08:56:27 [38/64] SKIP  s41_090813m.set (md5 ok)
+08:56:27 [39/64] SKIP  s41_091104n.set (md5 ok)
+08:56:28 [40/64] SKIP  s42_061229n.set (md5 ok)
+08:56:29 [41/64] SKIP  s42_070105n.set (md5 ok)
+08:56:30 [42/64] SKIP  s43_070202m.set (md5 ok)
+08:56:32 [43/64] SKIP  s43_070205n.set (md5 ok)
+08:56:33 [44/64] SKIP  s43_070208n.set (md5 ok)
+08:56:38 [45/64] SKIP  s44_070126m.set (md5 ok)
+08:56:38 [46/64] SKIP  s44_070205n.set (md5 ok)
+08:56:40 [47/64] SKIP  s44_070209m.set (md5 ok)
+08:56:42 [48/64] SKIP  s44_070325n.set (md5 ok)
+08:57:05 [49/64] OK    s45_070307n.set
+08:57:26 [50/64] OK    s45_070321n.set
+08:57:41 [51/64] OK    s48_080501n.set
+08:57:53 [52/64] OK    s49_080522n.set
+08:58:07 [53/64] OK    s49_080527n.set
+08:58:21 [54/64] OK    s49_080602m.set
+08:58:35 [55/64] OK    s50_080725n.set
+08:58:49 [56/64] OK    s50_080731m.set
+08:59:02 [57/64] OK    s52_081017n.set
+08:59:16 [58/64] OK    s53_081018n.set
+08:59:36 [59/64] OK    s53_090918n.set
+08:59:55 [60/64] OK    s53_090925m.set
+09:00:05 [61/64] OK    s54_081226m.set
+09:00:25 [62/64] OK    s55_090930n.set
+09:00:28 [63/64] OK    code availability.zip
+09:00:30 [64/64] OK    Tutorial Data Analysis for Multi-channel EEG Recordings during a Sustained-attention Driving Task.pdf
+2026-06-25 09:00:30 DONE ok=16 skip=48 fail=0 total=64

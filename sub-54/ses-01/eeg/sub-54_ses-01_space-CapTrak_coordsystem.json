@@ -1,0 +1,24 @@
+{
+    "EEGCoordinateSystem": "CapTrak",
+    "EEGCoordinateUnits": "m",
+    "EEGCoordinateSystemDescription": "NOMINAL TEMPLATE positions from the MNE 'standard_1020' montage (modified international 10-20 system), identical for every recording and NOT individually measured/digitised; the source dataset provided no electrode locations. Use as approximate scalp positions only. The X-axis goes from the left preauricular point (LPA) through the right preauricular point (RPA). The Y-axis goes orthogonally to the X-axis through the nasion (NAS). The Z-axis goes orthogonally to the XY-plane through the vertex of the head. This corresponds to a \"RAS\" orientation with the origin of the coordinate system approximately between the ears. See Appendix VIII in the BIDS specification.",
+    "AnatomicalLandmarkCoordinates": {
+        "NAS": [
+            0.0,
+            0.09673568177234475,
+            0.0
+        ],
+        "LPA": [
+            -0.09673568177234475,
+            0.0,
+            0.0
+        ],
+        "RPA": [
+            0.09673568177234475,
+            0.0,
+            0.0
+        ]
+    },
+    "AnatomicalLandmarkCoordinateSystem": "CapTrak",
+    "AnatomicalLandmarkCoordinateUnits": "m"
+}

@@ -1,0 +1,106 @@
+# Investigation File generated for Scientific Data with Investigation File Authoring Tool version 0.1.0 on 11/03/2019 - This metadata file is CC0
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	NCBITaxon	UBERON	ERO	EFO	CMO	OBI
+Term Source File	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/ERO	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/CMO	http://data.bioontology.org/ontologies/OBI
+Term Source Version	2016AB	releases/2014-06-15	2013-08-02	2.105	2.41	2014-08-18
+Term Source Description	National Center for Biotechnology Information (NCBI) Organismal Classification	Uber Anatomy Ontology	Eagle-I Research Resource Ontology	Experimental Factor Ontology	Clinical Measurement Ontology	Ontology for Biomedical Investigations
+INVESTIGATION
+Investigation Identifier
+Investigation Title
+Investigation Description
+Investigation Submission Date
+Investigation Public Release Date
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person Mid Initials
+Investigation Person First Name
+Investigation Person Address
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Email
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/s41597-019-0027-4
+Study Title	Multi-channel EEG recordings during a sustained-attention driving task
+Study Submission Date	11/06/2018
+Study Public Release Date	05/04/2019
+Study Description	https://www.nature.com/articles/s41597-019-0027-4
+Study File Name	s_Cao278B_study.txt
+Comment[Subject Keywords]	""
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]
+Comment[Supplementary Information File Type]
+Comment[Supplementary Information File URL]
+Comment[Data Repository]	figshare;figshare
+Comment[Data Record Accession]	doi:10.6084/m9.figshare.6427334.v5;doi:10.6084/m9.figshare.7666055.v3
+Comment[Data Record URI]	https://doi.org/10.6084/m9.figshare.6427334.v5;https://doi.org/10.6084/m9.figshare.7666055.v3
+STUDY DESIGN DESCRIPTORS
+Study Design Type	behavioral data analysis objective	source-based data analysis objective	stimulus or stress design
+Study Design Type Term Accession Number	ERO:0100130	ERO:0100121	http://www.ebi.ac.uk/efo/EFO_0001762
+Study Design Type Term Source REF	ERO	ERO	EFO
+STUDY PUBLICATIONS
+Study PubMed ID	""	""	""	""	""	""	""
+Study Publication DOI	doi:10.1016/j.neuroimage.2014.01.015	doi:10.1038/srep21353	doi:10.1109/TBCAS.2014.2316224	doi:10.1109/TNNLS.2013.2275003	doi:10.1016/j.knosys.2015.01.007	doi:10.1109/TNNLS.2015.2496330	doi:10.1109/TFUZZ.2016.2633379
+Study Publication Author List	""	""	""	""	ref18	""	""
+Study Publication Title	ref14	ref15	ref16	ref17	""	ref19	ref20
+Study Publication Status	published	published	published	published	published	published	published
+Study Publication Status Term Accession Number							
+Study Publication Status Term Source REF							
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay Measurement Type	brain activity measurement
+Study Assay Measurement Type Term Accession Number	CMO:0001737
+Study Assay Measurement Type Term Source REF	CMO
+Study Assay Technology Type	electroencephalography
+Study Assay Technology Type Term Accession Number	ERO:0001337
+Study Assay Technology Type Term Source REF	ERO
+Study Assay Technology Platform	instrument;manufacturer
+Study Assay File Name	a_Cao278B_assay.txt
+STUDY PROTOCOLS
+Study Protocol Name	Participants	Experimental paradigm
+Study Protocol Type	selection	electroencephalography
+Study Protocol Type Term Accession Number	OBI:0001928	ERO:0001337
+Study Protocol Type Term Source REF	OBI	ERO
+Study Protocol Description		
+Study Protocol URI	""	""
+Study Protocol Version		
+Study Protocol Parameters Name	""	instrument;manufacturer
+Study Protocol Parameters Name Term Accession Number	""	""
+Study Protocol Parameters Name Term Source REF	""	""
+Study Protocol Components Name	""	""
+Study Protocol Components Type	""	""
+Study Protocol Components Type Term Accession Number	""	""
+Study Protocol Components Type Term Source REF	""	""
+STUDY CONTACTS
+Study Person Last Name	Cao	Chuang	King	Lin
+Study Person First Name	Zehong	Chun-Hsiang	Jung-Kai	Chin-Teng
+Study Person Mid Initials
+Study Person Email	Zehong.Cao@utas.edu.au	""	""	Chin-Teng.Lin@uts.edu.au
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation	Discipline of ICT, School of Technology, Environments and Design, College of Sciences and Engineering, University of Tasmania, Hobart, TAS, Australia	Department of Computer Science and Engineering, National Taiwan Ocean University, Keelung, Taiwan	Brain Research Center, National Chiao Tung University, Hsinchu, Taiwan	Centre for Artificial Intelligence, Faculty of Engineering and IT, University of Technology Sydney, Sydney, NSW, Australia
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+Comment[Study Person ORCID]	0000-0003-3656-0328	""	""	""
+Comment[Funder]
+Comment[FundRef ID]
+Comment[Funder Term Source REF]
+Comment[Grant Identifier]

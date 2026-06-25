@@ -1,0 +1,48 @@
+{
+    "Name": "Multi-channel EEG recordings during a sustained-attention driving task",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.2.0",
+    "DatasetType": "raw",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Zehong Cao",
+        "Chun-Hsiang Chuang",
+        "Jung-Kai King",
+        "Chin-Teng Lin"
+    ],
+    "Acknowledgements": "Data collected (2005-2012) at the Brain Research Center, National Chiao Tung University, Hsinchu, Taiwan. The authors thank their partner groups at the University of California San Diego (UCSD) and the DCS Corporation for independent validation.",
+    "HowToAcknowledge": "Please cite Cao, Z., Chuang, C.-H., King, J.-K. & Lin, C.-T. Multi-channel EEG recordings during a sustained-attention driving task. Sci. Data 6, 19 (2019). https://doi.org/10.1038/s41597-019-0027-4",
+    "Funding": [
+        "U.S. Army Research Laboratory (ARL) and Army Research Office (ARO), grant W911NF-10-2-0022",
+        "U.S. Army Research Laboratory (ARL), grant W911NF-10-D-0002/TO 0023"
+    ],
+    "EthicsApprovals": [
+        "Approved by the Institutional Review Board of the Veterans General Hospital, Taipei, Taiwan. The study followed the Guide for the Committee of Laboratory Care and Use of National Chiao Tung University, Taiwan. All participants gave written informed consent."
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1038/s41597-019-0027-4",
+        "https://doi.org/10.6084/m9.figshare.6427334.v5",
+        "https://doi.org/10.6084/m9.figshare.7666055.v3",
+        "https://doi.org/10.1016/j.neuroimage.2014.01.015",
+        "https://doi.org/10.1038/srep21353",
+        "https://doi.org/10.1109/TBCAS.2014.2316224",
+        "https://doi.org/10.1109/TNNLS.2013.2275003",
+        "https://doi.org/10.1016/j.knosys.2015.01.007",
+        "https://doi.org/10.1109/TNNLS.2015.2496330",
+        "https://doi.org/10.1109/TFUZZ.2016.2633379"
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://doi.org/10.6084/m9.figshare.6427334.v5",
+            "Version": "5",
+            "Description": "Raw EEGLAB .set files (figshare 6427334 v5), CC BY 4.0"
+        }
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "mne-bids",
+            "Version": "0.19.0",
+            "Description": "Converted the original EEGLAB .set recordings to BIDS-EEG (EEGLAB format retained) using the scripts in code/ (convert_to_bids.py, finalize_bids.py); added nominal 10-20 template electrode positions and enriched metadata from the source publication."
+        }
+    ]
+}

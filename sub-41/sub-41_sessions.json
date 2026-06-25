@@ -1,0 +1,24 @@
+{
+    "acq_date": {
+        "Description": "Acquisition date (YYYY-MM-DD) parsed from the original file name."
+    },
+    "original_filename": {
+        "Description": "Original recording file name on figshare (without extension)."
+    },
+    "recording_suffix": {
+        "Description": "One-letter suffix ('m' or 'n') from the original file name. Its meaning is not specified in the source publication."
+    },
+    "original_run_index": {
+        "Description": "Run index from the original file name when a subject had multiple recordings on the same date; n/a otherwise."
+    },
+    "duration_sec": {
+        "Description": "Recording duration.",
+        "Units": "s"
+    },
+    "n_deviation_trials": {
+        "Description": "Number of lane-departure (deviation onset) trials."
+    },
+    "n_events": {
+        "Description": "Total number of event markers in the recording."
+    }
+}
