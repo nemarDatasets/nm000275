@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Multi-channel EEG recordings during a sustained-attention driving task",
-  "description": "This dataset comprises multi-channel EEG recordings from 27 healthy adults performing a sustained-attention driving task in a virtual-reality simulator. The raw dataset contains 62 EEG sessions (~82 hours total) acquired at 500 Hz using a 32-channel Quik-Cap system, with event markers for lane-departure trials and steering responses. The data includes 27,192 lane-deviation events designed to assess fatigue and drowsiness through reaction time measurements, and is provided in BIDS-EEG format with nominal 10-20 electrode positions.",
-  "methods_description": "EEG was recorded using a Compumedics Neuroscan Scan SynAmps2 Express amplifier with a 32-channel Quik-Cap (Ag/AgCl electrodes) at 500 Hz sampling rate and 16-bit quantization. Participants performed a virtual-reality driving task on a six-degree-of-freedom Stewart motion platform with a real Ford Probe car frame, maintaining lane position on a simulated night-time highway while responding to randomly induced left/right lane-departure events. Electrode impedance was maintained below 5 kOhm. A 33rd channel recorded simulated vehicle lateral position (0-255 quantization) synchronized with EEG acquisition.",
+  "description": "This dataset comprises multi-channel EEG recordings from 27 healthy adults performing a sustained-attention driving task in a virtual-reality simulator across 62 sessions. The task involves event-related lane-departure paradigm where participants maintain vehicle position on a simulated highway, with recordings capturing 32-channel EEG (30 scalp + 2 mastoid references) sampled at 500 Hz alongside vehicle position data. The dataset includes approximately 82 hours of raw, unfiltered EEG data with 27,192 lane-departure trials and associated behavioral markers, providing a resource for studying attention, fatigue, and drowsiness during sustained driving tasks.",
+  "methods_description": "EEG was acquired using a Compumedics Neuroscan Scan SynAmps2 Express amplifier with a 32-channel Quik-Cap (Ag/AgCl electrodes) at 500 Hz sampling rate with 16-bit quantization. Electrodes followed a modified international 10-20 system (30 scalp + 2 mastoid references A1/A2). Electrode-skin impedance was maintained below 5 kOhm using NaCl conductive gel and isopropyl-alcohol skin preparation. Participants performed a virtual-reality driving task on a six-degree-of-freedom Stewart motion platform with a real Ford Probe car frame, maintaining a vehicle on a simulated night-time highway while responding to randomly induced left/right lane-departure events. Data were originally acquired between 2005 and 2012 and converted to BIDS-EEG format using mne-bids.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -26,6 +26,9 @@
     },
     {
       "term": "fatigue detection"
+    },
+    {
+      "term": "drowsiness"
     },
     {
       "term": "reaction time"
@@ -94,7 +97,7 @@
       "relation_type": "IsDescribedBy"
     },
     {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000275",
+      "identifier": "https://nemar.org/dataset/nm000275",
       "identifier_type": "URL",
       "relation_type": "IsDescribedBy"
     }
@@ -120,6 +123,7 @@
   "formats": [
     ".json",
     ".log",
+    ".md",
     ".pdf",
     ".py",
     ".set",
@@ -127,7 +131,8 @@
     ".tsv",
     ".txt",
     ".xml",
+    ".yml",
     ".zip"
   ],
-  "source_hash": "fdd3620b62e2571fc408009d5190ed9a4cf549db0630e9e7f8ee66fac523c80f"
+  "source_hash": "d29a768de50ab6007255179480a30fe001af1e6cd6e041545609b66bb9341366"
 }
